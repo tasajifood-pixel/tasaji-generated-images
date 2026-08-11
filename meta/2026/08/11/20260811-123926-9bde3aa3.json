@@ -1,0 +1,36 @@
+{
+  "id": "20260811-123926-9bde3aa3",
+  "created_at": "2026-08-11T12:41:25.813Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "A single professional logo lockup for a software platform named \"Rangkita\", an Indonesian SaaS platform that hosts several applications for Islamic education institutions. Flat vector brand identity, centered on a clean solid white background with generous padding. ONE logo only — not a grid, not variations, not a collage, not a mockup.\n\nCONCEPT — \"many beads strung into one line\": the emblem is a rising arc formed by a row of simple geometric shapes (circles and rounded squares) of graduated size, connected by a single thin continuous line that threads through them. It reads as separate units joined into one progression — growth, sequence, memorization step by step. Compact, contained within a rough square footprint. Abstract and modern — NOT a chart, NOT a graph, NOT a prayer bead necklace drawn literally, NOT a mosque.\n\nWORDMARK: the single word \"Rangkita\" beside or below the emblem, in a warm humanist sans-serif, medium weight, open letterforms, comfortable letter spacing, perfectly spelled.\n\nCOLOR: warm terracotta clay as the primary color, paired with a muted olive green on a few of the shapes for rhythm. Absolutely NO navy blue, NO dark blue, NO teal. Earthy, human, warm, calm.\n\nSTYLE: flat design, solid fills, no gradients, no drop shadows, no 3D, no textures, no outline box around the logo. Crisp vector edges. Must stay legible and recognizable at a 16px favicon size.\n\nSTRICT: no people, no hands, no faces, no Arabic calligraphy, no crescent moon, no star, no photographic elements, no background pattern, no extra text, no tagline, no trademark symbol.",
+  "revised_prompt": null,
+  "size": "1024x1024",
+  "quality": "high",
+  "background": "auto",
+  "filename_hint": "rangkita-rebrand-B-untaian",
+  "tag": "rangkita-rebrand",
+  "quality_reason": "Aset identitas merek, wordmark harus tajam dan ejaan tepat",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/08/11/20260811-123926-9bde3aa3-rangkita-rebrand-b-untaian.png",
+  "metadata_path": "meta/2026/08/11/20260811-123926-9bde3aa3.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/08/11/20260811-123926-9bde3aa3-rangkita-rebrand-b-untaian.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/08/11/20260811-123926-9bde3aa3.json",
+  "size_bytes": 770107,
+  "usage": {
+    "input_tokens": 351,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 351
+    },
+    "output_tokens": 7024,
+    "output_tokens_details": {
+      "image_tokens": 7024,
+      "text_tokens": 0
+    },
+    "total_tokens": 7375
+  }
+}
