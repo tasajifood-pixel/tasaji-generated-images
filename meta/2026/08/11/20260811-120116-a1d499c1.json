@@ -1,0 +1,36 @@
+{
+  "id": "20260811-120116-a1d499c1",
+  "created_at": "2026-08-11T12:03:25.650Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "Create ONE vertical portrait (2:3) promotional image for a WhatsApp Status of Tasaji Food, a premium halal frozen food brand from Indonesia. Audience: Indonesian mothers. Mood: mouth-watering, warm, irresistible - the cooked dish must make viewers instantly hungry. NOT a discount poster: no prices, no badges.\n\nPRODUCT & SCENE: attached is the actual packaging photo of Tasaji frozen roti maryam (layered flatbread), packaging has the Tasaji brand label. Build a lifestyle scene with TWO elements:\n1. THE COOKED DISH: freshly pan-toasted roti maryam: round layered flatbread, golden brown, flaky, one piece torn showing soft stretchy thin layers inside, butter melting on top, honey drizzle on the side, steam rising.\n2. THE PACKAGING: standing upright, appearing EXACTLY as in the source photo.\nBALANCED COMPOSITION: the packaging and the cooked dish must be EQUAL partners - same visual size and prominence, side by side (packaging left, dish right, or symmetrical arrangement). Neither may dominate or shrink - it is PLAIN transparent packaging, LEAVE IT PLAIN, do NOT add any logo, label, sticker or writing on it.\n\nDESIGN: warm Indonesian home kitchen/dining ambience, softly blurred. CONDIMENT RULE (strict): supporting props must be condiments/companions that Indonesians GENUINELY eat with THIS specific product. Maximum 2-3 items. For this product use ONLY: a small bowl of honey with dipper, and grated cheese or melted chocolate on the side. FORBIDDEN for this product: sambal, chili, lime, savory garnish - they do not match a sweet flatbread. Rich warm colors, dramatic appetizing light, professional food-ad photography.\n\nTEXT TO RENDER (exactly these words, nothing else, perfect Indonesian spelling):\n1. THE BIGGEST text, top area (this is the star, big bold characterful typography, cream/white with warm orange accent): \"Sarapan besok beres, tinggal panggang\"\n2. Small product name under it: \"Roti Maryam Original - Tasaji Food\"\n3. Bottom area, clear and readable on a subtle dark strip, two items: phone number \"0877-7513-3443\" and website \"tasajifood.com\"\nNo call-to-action button. No other text anywhere. All text spelled EXACTLY as written, especially the phone number digits.\n\nNO HUMANS: no people, hands, or faces.\n\nCOMPOSITION: vertical portrait, headline top, cooked dish dominant center, packaging supporting, phone number bottom. No watermark.",
+  "revised_prompt": null,
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "filename_hint": "maryam-pr-v5-gptimage2",
+  "tag": "tes-prompt-oms-maryam",
+  "quality_reason": "Tes banding model gpt-image-2 vs gpt-image-1; parameter harus identik dengan tes sebelumnya",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/08/11/20260811-120116-a1d499c1-maryam-pr-v5-gptimage2.png",
+  "metadata_path": "meta/2026/08/11/20260811-120116-a1d499c1.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/08/11/20260811-120116-a1d499c1-maryam-pr-v5-gptimage2.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/08/11/20260811-120116-a1d499c1.json",
+  "size_bytes": 2672306,
+  "usage": {
+    "input_tokens": 544,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 544
+    },
+    "output_tokens": 5488,
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    },
+    "total_tokens": 6032
+  }
+}
