@@ -1,0 +1,36 @@
+{
+  "id": "20260811-110317-a14cc222",
+  "created_at": "2026-08-11T11:04:15.729Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-1",
+  "prompt": "Vertical portrait food-marketing poster (9:16 social media story format) for frozen roti maryam / roti canai.\n\nSCENE: Warm morning breakfast table shot from a 45-degree angle. A stack of 3 freshly pan-fried roti maryam, golden brown, flaky crispy layers, slightly torn on top showing soft airy inner layers, glistening with melted butter. Served on a rustic matte-white ceramic plate. Beside it: a small bowl of thick curry dipping sauce, a glass cup of hot teh susu with visible steam, and a scatter of sugar granules. Soft natural morning sunlight streaming from the left through a window, casting warm golden light and soft shadows. Wooden table surface, linen cloth in warm cream color. Background softly blurred (shallow depth of field), cozy home kitchen, warm bokeh.\n\nSTYLE: Professional food photography, high resolution, appetizing, warm golden-hour color grade, crisp texture detail on the flaky pastry layers, steam wisps visible. Clean and premium, not cluttered.\n\nTEXT OVERLAY (must be spelled exactly, clean modern sans-serif, Indonesian language):\n- Top area, large bold white headline with soft shadow: \"ROTI MARYAM\"\n- Directly below in smaller warm-cream italic script: \"Sarapan Hangat, Pagi Penuh Berkah\"\n- Bottom area, inside a rounded warm-orange banner, bold white text: \"Tinggal Goreng, 3 Menit Siap\"\n- Very bottom, small clean white text: \"TASAJI FOOD\"\n\nKeep all text perfectly legible, correctly spelled, well spaced, no extra random letters or gibberish. Leave the center of the frame clear so the food is the hero.",
+  "revised_prompt": null,
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "filename_hint": "roti-maryam-sarapan-status",
+  "tag": "marketing-tasaji",
+  "quality_reason": "Final marketing asset untuk status WA/IG, ada teks branding yang harus tajam dan terbaca",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/08/11/20260811-110317-a14cc222-roti-maryam-sarapan-status.png",
+  "metadata_path": "meta/2026/08/11/20260811-110317-a14cc222.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/08/11/20260811-110317-a14cc222-roti-maryam-sarapan-status.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/08/11/20260811-110317-a14cc222.json",
+  "size_bytes": 2422745,
+  "usage": {
+    "input_tokens": 358,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 358
+    },
+    "output_tokens": 6240,
+    "output_tokens_details": {
+      "image_tokens": 6240,
+      "text_tokens": 0
+    },
+    "total_tokens": 6598
+  }
+}
