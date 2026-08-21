@@ -1,0 +1,36 @@
+{
+  "id": "20260821-081317-919b0e01",
+  "created_at": "2026-08-21T08:15:11.527Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "Warm lifestyle food photography poster, vertical format, top-down flat lay, for a frozen food brand.\n\nSUBJECT (no people, no living creatures, no hands, no faces, no animals — food and objects only):\nOverhead flat lay on a light oak wooden family breakfast table. Center: a round rattan plate with 4 golden pan-fried \"roti maryam\" (flaky paratha), one folded into a quarter, one torn showing pull-apart layers. Around it: a small ceramic bowl of curry sauce, a jar of honey with dipper, a bowl of sliced banana, two glasses of warm milk, a folded beige linen napkin, a small dish of granulated sugar. Soft crumbs and flakes scattered naturally. Everything neatly composed with breathing room.\n\nLIGHTING & MOOD: bright soft natural morning window light, airy and clean, gentle shadows, warm cream and honey-gold color palette, inviting family-breakfast feeling, photorealistic, sharp detail on the crispy layered texture.\n\nLAYOUT: leave clean empty space at the top for the headline. Text sits on the light wooden surface, dark charcoal type for contrast.\n\nTEXT OVERLAY — render this text EXACTLY, correct Indonesian spelling, elegant modern sans-serif, no typos, no extra words:\n- Headline (large, bold, dark charcoal): \"SARAPAN YANG BIKIN ANAK MINTA TAMBAH\"\n- Subheadline (medium, warm brown): \"Roti Maryam Original\"\n- Small line (thin gray): \"Stok freezer, siap kapan saja.\"\n- Bottom corner brand lockup (small, clean): \"TASAJI FOOD\"\n\nSTYLE: modern minimalist advertising, generous negative space, premium editorial magazine look, professional typography hierarchy, no watermark, no cartoon, no clutter.",
+  "revised_prompt": null,
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "filename_hint": "roti-maryam-original-softpromo-flatlay",
+  "tag": "marketing-roti-maryam",
+  "quality_reason": "Varian final marketing, teks Indonesia harus terbaca akurat",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/08/21/20260821-081317-919b0e01-roti-maryam-original-softpromo-flatlay.png",
+  "metadata_path": "meta/2026/08/21/20260821-081317-919b0e01.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/08/21/20260821-081317-919b0e01-roti-maryam-original-softpromo-flatlay.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/08/21/20260821-081317-919b0e01.json",
+  "size_bytes": 3169111,
+  "usage": {
+    "input_tokens": 373,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 373
+    },
+    "output_tokens": 5488,
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    },
+    "total_tokens": 5861
+  }
+}
