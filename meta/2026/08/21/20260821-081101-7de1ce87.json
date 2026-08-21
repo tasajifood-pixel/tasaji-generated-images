@@ -1,0 +1,36 @@
+{
+  "id": "20260821-081101-7de1ce87",
+  "created_at": "2026-08-21T08:12:59.804Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "Premium commercial food photography poster, vertical format, for a frozen food brand.\n\nSUBJECT (no people, no living creatures, no hands, no faces, no animals — strictly food and objects only):\nA stack of 3 freshly pan-fried \"roti maryam\" (Malaysian-style roti canai / flaky paratha) on a matte black cast-iron skillet. The top piece is torn open slightly at the edge showing the pull-apart flaky layers, wisps of visible steam rising. Golden-brown blistered surface with crispy charred spots, buttery sheen, a few loose flakes scattered on the dark wooden table. Small bowl of condensed milk and a glass of hot tea slightly out of focus in the background. Scattered flour dust and a sprig of nothing artificial — keep it clean and appetizing.\n\nLIGHTING & MOOD: warm morning side-light from the left, soft shadow falloff, cozy home-kitchen feel, shallow depth of field, rich contrast, dark moody background so the golden bread pops. Shot on 50mm, f/2.0, ultra sharp on the flaky layers.\n\nLAYOUT: bottom third has a soft dark gradient for text legibility. Top 60% is the food hero shot.\n\nTEXT OVERLAY — render this text EXACTLY, correct Indonesian spelling, clean modern sans-serif, no typos, no extra words:\n- Headline (large, bold, warm cream white): \"RENYAH DI LUAR, LEMBUT BERLAPIS DI DALAM\"\n- Subheadline (medium, golden yellow): \"Roti Maryam Original\"\n- Small line (thin white): \"Panaskan 3 menit. Sarapan langsung siap.\"\n- Bottom corner brand lockup (small, clean): \"TASAJI FOOD\"\n\nSTYLE: high-end restaurant advertising, not cluttered, generous negative space, professional typography hierarchy, no watermark, no stock-photo look, no cartoon, photorealistic.",
+  "revised_prompt": null,
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "filename_hint": "roti-maryam-original-softpromo-hero",
+  "tag": "marketing-roti-maryam",
+  "quality_reason": "Final marketing asset, teks Indonesia harus akurat dan detail tekstur roti jadi penentu daya jual",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/08/21/20260821-081101-7de1ce87-roti-maryam-original-softpromo-hero.png",
+  "metadata_path": "meta/2026/08/21/20260821-081101-7de1ce87.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/08/21/20260821-081101-7de1ce87-roti-maryam-original-softpromo-hero.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/08/21/20260821-081101-7de1ce87.json",
+  "size_bytes": 2408531,
+  "usage": {
+    "input_tokens": 406,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 406
+    },
+    "output_tokens": 5488,
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    },
+    "total_tokens": 5894
+  }
+}
