@@ -1,0 +1,36 @@
+{
+  "id": "20260901-230639-844a88b4",
+  "created_at": "2026-09-01T23:07:26.430Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "Pemandangan lembah oasis di gurun Arabia saat fajar. Kebun kurma hijau di tengah hamparan pasir keemasan, sungai kecil jernih memantulkan langit jingga-biru, tebing batu pasir berlapis di kejauhan, kabut tipis di kaki bukit. Gaya fotografi lanskap alami, cahaya lembut jam emas, sangat detail. TIDAK ADA manusia, tidak ada hewan, tidak ada makhluk bernyawa, tidak ada tulisan atau teks apa pun.",
+  "revised_prompt": null,
+  "size": "1024x1024",
+  "quality": "medium",
+  "background": "auto",
+  "filename_hint": "oasis-fajar-gurun",
+  "tag": "personal",
+  "quality_reason": "kiriman personal, tidak perlu detail final branding",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/09/01/20260901-230639-844a88b4-oasis-fajar-gurun.png",
+  "metadata_path": "meta/2026/09/01/20260901-230639-844a88b4.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/09/01/20260901-230639-844a88b4-oasis-fajar-gurun.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/09/01/20260901-230639-844a88b4.json",
+  "size_bytes": 1925712,
+  "usage": {
+    "input_tokens": 118,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 118
+    },
+    "output_tokens": 1756,
+    "output_tokens_details": {
+      "image_tokens": 1756,
+      "text_tokens": 0
+    },
+    "total_tokens": 1874
+  }
+}
