@@ -1,0 +1,36 @@
+{
+  "id": "20260907-071348-2a083719",
+  "created_at": "2026-09-07T07:14:28.196Z",
+  "provider": "openai_image_api",
+  "model": "gpt-image-2",
+  "prompt": "Fotografi makanan realistis, suasana pagi, TANPA MANUSIA sama sekali (tidak ada orang, tangan, wajah, atau bagian tubuh). Sepiring roti maryam (roti canai/paratha) berlapis-lapis, keemasan dan sedikit renyah di pinggirnya, disajikan di atas piring keramik putih sederhana, diletakkan di meja kayu tua bertekstur di teras terbuka. Di sebelahnya secangkir teh panas dalam cangkir kaca bening dengan uap tipis mengepul. Latar belakang: pemandangan pegunungan hijau berkabut di pagi hari, lembah dan barisan bukit, cahaya matahari pagi lembut keemasan dari samping, kabut tipis di kejauhan. Latar belakang sedikit blur (depth of field dangkal) supaya roti maryam dan teh tetap jadi fokus utama. Warna hangat dan natural, bukan gaya iklan berlebihan. Tanpa teks, tanpa logo, tanpa tulisan apa pun di gambar.",
+  "revised_prompt": null,
+  "size": "1536x1024",
+  "quality": "medium",
+  "background": "auto",
+  "filename_hint": "roti-maryam-teh-latar-gunung-pagi",
+  "tag": "permintaan-abi-roti-maryam-gunung",
+  "quality_reason": "permintaan Abi untuk dilihat di chat, bukan materi cetak final",
+  "storage": "github",
+  "repository": "tasajifood-pixel/tasaji-generated-images",
+  "permanent": true,
+  "ttl": null,
+  "image_path": "img/2026/09/07/20260907-071348-2a083719-roti-maryam-teh-latar-gunung-pagi.png",
+  "metadata_path": "meta/2026/09/07/20260907-071348-2a083719.json",
+  "image_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/img/2026/09/07/20260907-071348-2a083719-roti-maryam-teh-latar-gunung-pagi.png",
+  "metadata_url": "https://raw.githubusercontent.com/tasajifood-pixel/tasaji-generated-images/main/meta/2026/09/07/20260907-071348-2a083719.json",
+  "size_bytes": 2360397,
+  "usage": {
+    "input_tokens": 223,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 223
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+      "image_tokens": 1372,
+      "text_tokens": 0
+    },
+    "total_tokens": 1595
+  }
+}
