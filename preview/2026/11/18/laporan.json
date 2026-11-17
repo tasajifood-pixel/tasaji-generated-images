@@ -1,0 +1,118 @@
+{
+  "status": "MOTION_TEST_ONLY",
+  "sound": false,
+  "not_for_publication": true,
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "duration_seconds": 9.0,
+  "items": [
+    [
+      "01_fish_roll",
+      "Fish roll",
+      "roll",
+      228,
+      850,
+      0.3,
+      -30
+    ],
+    [
+      "02_crab_stick",
+      "Crab stick",
+      "crab",
+      345,
+      817,
+      0.78,
+      45
+    ],
+    [
+      "03_chikuwa_mini",
+      "Chikuwa mini",
+      "chikuwa",
+      458,
+      855,
+      1.25,
+      -25
+    ],
+    [
+      "04_duo_twister",
+      "Duo twister",
+      "twister",
+      270,
+      923,
+      1.75,
+      30
+    ],
+    [
+      "05_shrimp_tail",
+      "Shrimp tail",
+      "shrimp",
+      395,
+      919,
+      2.23,
+      -50
+    ],
+    [
+      "06_bakso_ikan",
+      "Bakso ikan",
+      "fishball",
+      185,
+      888,
+      2.72,
+      45
+    ],
+    [
+      "07_dumpling_ayam",
+      "Dumpling ayam",
+      "chicken",
+      522,
+      886,
+      3.21,
+      -30
+    ],
+    [
+      "08_dumpling_keju",
+      "Dumpling keju",
+      "cheese",
+      345,
+      884,
+      3.69,
+      55
+    ],
+    [
+      "09_salmon_ball",
+      "Salmon ball",
+      "salmon",
+      475,
+      941,
+      4.18,
+      -28
+    ],
+    [
+      "10_tahu_seafood",
+      "Tahu seafood",
+      "tofu",
+      210,
+      949,
+      4.65,
+      40
+    ]
+  ],
+  "assets": {
+    "01_fish_roll": "PROCEDURAL_PLACEHOLDER",
+    "02_crab_stick": "PROCEDURAL_PLACEHOLDER",
+    "03_chikuwa_mini": "PROCEDURAL_PLACEHOLDER",
+    "04_duo_twister": "PROCEDURAL_PLACEHOLDER",
+    "05_shrimp_tail": "PROCEDURAL_PLACEHOLDER",
+    "06_bakso_ikan": "PROCEDURAL_PLACEHOLDER",
+    "07_dumpling_ayam": "PROCEDURAL_PLACEHOLDER",
+    "08_dumpling_keju": "PROCEDURAL_PLACEHOLDER",
+    "09_salmon_ball": "PROCEDURAL_PLACEHOLDER",
+    "10_tahu_seafood": "PROCEDURAL_PLACEHOLDER"
+  },
+  "renderer": "MacBook / Python Pillow + FFmpeg libx264",
+  "render_seconds": 6.39,
+  "size_bytes": 494380,
+  "sha256": "598cc8117cac5b0ebb54a6f765c6859d8d7e34c687b92b05b5494effb6c79dd4",
+  "output": "/Volumes/TASAJI-4TB/04-DATA/Media/2026-11-18-UJI-ANIMASI-AFILIASI-SURIMI/UJI_ANIMASI_SURIMI_10_ITEM_SENYAP_720x1280.mp4"
+}
